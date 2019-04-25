@@ -1,3 +1,3 @@
 # Project2
 
-See https://www.hackster.io/tim-tiernan/two-person-weasley-clock-with-particle-photon-and-ifttt-76eaa0
+[Click Here](https://particle.hackster.io/yatinagarwal/light-detecting-email-sender-db18f4)
