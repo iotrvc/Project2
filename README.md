@@ -93,7 +93,7 @@ To receive your push notification there is a little setup if you’ve never done
 ### Step 5: Create Particle App
 
 - Go to https://build.particle.io/build/new 
-- Title: Conference_Room_Ready
+- Title: LightDetect
 - Paste Below Code
 ```
 int led = D7; // This is where your can use can plug in a different LED. The other side should go to a resistor connected to GND.
