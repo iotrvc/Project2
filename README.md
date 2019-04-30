@@ -1,9 +1,6 @@
 <!---
 [Click Here](https://particle.hackster.io/yatinagarwal/light-detecting-email-sender-db18f4)
 --->
-## RESET PHOTON
-[reset photon](https://docs.particle.io/tutorials/device-os/led/core/#safe-mode)
-
 ## Light Sensor with Particle Photon
 
 Required Parts:
@@ -13,6 +10,8 @@ Required Parts:
 <!---
 [link](https://docs.particle.io/tutorials/hardware-projects/maker-kit/#tutorial-3-conference-room-monitor)
 --->
+### RESET PHOTON
+[reset photon](https://docs.particle.io/tutorials/device-os/led/core/#safe-mode)
 
 ### Step 1: Set up your Photon
 - Using Your Computer: Go to particle.io/setup and follow the instructions to create an account and set up your Photon.
