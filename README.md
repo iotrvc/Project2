@@ -3,11 +3,13 @@
 --->
 ## Light Sensor with Particle Photon
 
-<p>Required Parts: (Provided)<br />- <a href="https://www.amazon.com/Particle-Reprogrammable-Development-Prototyping-Electronics/dp/B016YNU1A0">Particle Photon</a> <br /><span>- <a href="https://www.amazon.com/gp/product/B01N7V536K/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&amp;psc=1">Photo Sensor</a> </span><br /><span>- <a href="https://www.amazon.com/gp/product/B07G97ZMTN/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;psc=1">Resistor</a></span></p>
-<br>- OPTIONAL: PowerShield (Battery) [link](https://www.amazon.com/gp/product/B06XJ64G8G/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+<p>Required Parts: (Provided)<br />- <a href="https://www.amazon.com/Particle-Reprogrammable-Development-Prototyping-Electronics/dp/B016YNU1A0">Particle Photon</a> <br /><span>- <a href="https://www.amazon.com/gp/product/B01N7V536K/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&amp;psc=1">Photo Sensor</a> </span><br /><span>- <a href="https://www.amazon.com/gp/product/B07G97ZMTN/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;psc=1">Resistor</a>
+OPTIONAL: PowerShield (Battery) [link](https://www.amazon.com/gp/product/B06XJ64G8G/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)</span></p>
+
 <!---
 [link](https://docs.particle.io/tutorials/hardware-projects/maker-kit/#tutorial-3-conference-room-monitor)
 --->
+
 ### RESET PHOTON
 [reset photon](https://docs.particle.io/tutorials/device-os/led/core/#safe-mode)
 
