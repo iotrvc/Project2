@@ -4,7 +4,7 @@
 ## Light Sensor with Particle Photon
 
 Required Parts:
-<br>- Particle Photon
+<br>- Particle Photon [link](https://www.amazon.com/Particle-Reprogrammable-Development-Prototyping-Electronics/dp/B016YNU1A0)
 <br>- Photo Sensor
 <br>- Resistor
 <br>- OPTIONAL: PowerShield (Battery) [link](https://www.amazon.com/gp/product/B06XJ64G8G/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
