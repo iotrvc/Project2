@@ -23,6 +23,7 @@ OPTIONAL: PowerShield (Battery) [link](https://www.amazon.com/gp/product/B06XJ64
 
 ### Step 2: Connect Photo Sensor & Resistor to Photon
 - Connect your sensor to a digital or analog input on the Photon. Follow these examples for hooking up common sensors.
+
 ```
 Sensor Pin  | Photon Pin
        pin1 | A0 
@@ -32,7 +33,9 @@ Sensor Pin  | Photon Pin
 Resistor Pin  | Photon Pin
          pin1 | A0 
          pin2 | GRND
+         
 ```
+
 #### Set up the hardware
 
 Should look like this
@@ -67,6 +70,7 @@ To receive your push notification there is a little setup if you’ve never done
 - Change "Request Format" JSON
 - Click WebHook > CUSTOM TEMPLATE
 - Paste below text and replace user and token with above user key and API Token
+
 ```
 {
     "event": "exceedlight",
@@ -82,6 +86,7 @@ To receive your push notification there is a little setup if you’ve never done
         "message": "{{SPARK_EVENT_VALUE}}"
     }
 }
+
 ```
 
 - Click Create WebHook
@@ -93,6 +98,7 @@ To receive your push notification there is a little setup if you’ve never done
 - Go to https://build.particle.io/build/new 
 - Title: LightDetect
 - Paste Below Code
+
 ```
 int led = D7; // This is where your can use can plug in a different LED. The other side should go to a resistor connected to GND.
 
@@ -144,6 +150,7 @@ void loop() {
 
 
 ```
+
 - Click Save
 - Click Flash
 
