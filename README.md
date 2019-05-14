@@ -25,6 +25,7 @@ OPTIONAL: PowerShield (Battery) [link](https://www.amazon.com/gp/product/B06XJ64
 - Connect your sensor to a digital or analog input on the Photon. Follow these examples for hooking up common sensors.
 
 ```
+
 Sensor Pin  | Photon Pin
        pin1 | A0 
        pin2 | A5
@@ -71,7 +72,9 @@ To receive your push notification there is a little setup if you’ve never done
 - Click WebHook > CUSTOM TEMPLATE
 - Paste below text and replace user and token with above user key and API Token
 
+
 ```
+
 {
     "event": "exceedlight",
     "url": "https://api.pushover.net/1/messages.json",
@@ -99,7 +102,9 @@ To receive your push notification there is a little setup if you’ve never done
 - Title: LightDetect
 - Paste Below Code
 
+
 ```
+
 int led = D7; // This is where your can use can plug in a different LED. The other side should go to a resistor connected to GND.
 
 int photoresistor = A0; // This is where your photoresistor is plugged in. The other side goes to the "power" pin (refer to diagram).
