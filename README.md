@@ -99,7 +99,7 @@ To receive your push notification there is a little setup if you’ve never done
 ### Step 5: Create Particle App
 
 - Go to https://build.particle.io/build/new 
-- Title: LightDetect
+- Title: Exceeded_Light_Monitor
 - Paste Below Code
 
 
