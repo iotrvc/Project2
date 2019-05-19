@@ -166,8 +166,7 @@ If all goes well, the D7 LED on your Photon should light up when light is exceed
 HERE IS WHAT NOTIFICATIONS SHOULD LOOK LIKE
 <img src="10.jpg" width="500">
 <BR>
-<img src="14.jpg" width="500">
-<BR>
-<video src="1.mp4" width="320" height="200" controls preload></video>
+<img src="14.jpg" width="300">
+<video src="1.mp4" width="320" height="300" controls preload></video>
 
 
