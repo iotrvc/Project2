@@ -70,28 +70,7 @@ To receive your push notification there is a little setup if you’ve never done
 - Click on New Integration
 - Change "Request Format" JSON
 - Click WebHook > CUSTOM TEMPLATE
-- Paste below text and replace user and token with above user key and API Token
-
-
-```
-
-{
-    "event": "exceedlight",
-    "url": "https://api.pushover.net/1/messages.json",
-    "requestType": "POST",
-    "noDefaults": false,
-    "rejectUnauthorized": false,
-    "json": true,
-    "query": {
-        "user": "YOUR_USER_KEY",
-        "token": "YOUR_API_TOKEN_KEY",
-        "title": "Exceed Light",
-        "message": "{{SPARK_EVENT_VALUE}}"
-    }
-}
-
-```
-
+- Get code <a href="https://raw.githubusercontent.com/iotrvc/project1/master/trigger.txt">here</a> and Copy and replace user and token with above user key and API Token
 - Click Create WebHook
 
 <hr>
