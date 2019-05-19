@@ -1,0 +1,14 @@
+{
+    "event": "exceedlight",
+    "url": "https://api.pushover.net/1/messages.json",
+    "requestType": "POST",
+    "noDefaults": false,
+    "rejectUnauthorized": false,
+    "json": true,
+    "query": {
+        "user": "YOUR_USER_KEY",
+        "token": "YOUR_API_TOKEN_KEY",
+        "title": "Exceed Light",
+        "message": "{{SPARK_EVENT_VALUE}}"
+    }
+}
