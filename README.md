@@ -70,7 +70,7 @@ To receive your push notification there is a little setup if you’ve never done
 - Click on New Integration
 - Change "Request Format" JSON
 - Click WebHook > CUSTOM TEMPLATE
-- Get code <a href="https://raw.githubusercontent.com/iotrvc/project1/master/trigger.txt">here</a> and Copy and replace user and token with above user key and API Token
+- Get code <a href="https://raw.githubusercontent.com/iotrvc/Project2/master/trigger.text">here</a> and Copy and replace user and token with above user key and API Token
 - Click Create WebHook
 
 <hr>
