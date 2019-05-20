@@ -82,7 +82,7 @@ To receive your push notification there is a little setup if you’ve never done
 - Paste Below Code
 
 
-```
+```cpp
 
 int led = D7; // This is where your can use can plug in a different LED. The other side should go to a resistor connected to GND.
 
