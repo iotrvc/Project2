@@ -135,7 +135,7 @@ That’s It! You should now see notifications when light is exceeded
 
 If all goes well, the D7 LED on your Photon should light up when light is exceeded. 
 
-YOU WILL GET A CALL FROM IFTTT WHEN LIGHT EXCEEDS IS TRIGGERED
+### YOU WILL GET A CALL FROM IFTTT WHEN LIGHT EXCEEDS IS TRIGGERED
 
 <BR>
 <img src="PHONE.JPG" width="500">
