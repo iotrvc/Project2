@@ -1,3 +1,7 @@
+# EXCEEDED LIGHT SENSOR
+
+There are many use cases where machinery, electronics, etc. need to be limited to light exposure. This IOT project uses a photo sensor & IFTTT recipe that calls you when light is exceeded on sensor.
+
 <BR>
 <video src="1.mp4" width="420" height="400" controls preload></video>
        
