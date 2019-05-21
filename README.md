@@ -149,6 +149,10 @@ If all goes well, the D7 LED on your Photon should light up when light is exceed
 
 <BR>
 <img src="PHONE.JPG" width="500">
+       
+       
+### TROUBLESHOOTING STEPS
+<a href="https://iotrvc.github.io/troubleshooting/" target="blank">Click Here For TroubleShooting Steps</a>
 
 
 
