@@ -1,6 +1,6 @@
-<!---
-[Click Here](https://particle.hackster.io/yatinagarwal/light-detecting-email-sender-db18f4)
---->
+<BR>
+<video src="1.mp4" width="420" height="400" controls preload></video>
+       
 ## Light Sensor with Particle Photon
 
 <p>Required Parts: (Provided)<br />- <a href="https://www.amazon.com/Particle-Reprogrammable-Development-Prototyping-Electronics/dp/B016YNU1A0">Particle Photon</a> <br /><span>- <a href="https://www.amazon.com/gp/product/B01N7V536K/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&amp;psc=1">Photo Sensor</a> </span><br /><span>- <a href="https://www.amazon.com/gp/product/B07G97ZMTN/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;psc=1">Resistor</a></span></p>
@@ -140,7 +140,5 @@ If all goes well, the D7 LED on your Photon should light up when light is exceed
 <BR>
 <img src="PHONE.JPG" width="500">
 
-<BR>
-<video src="1.mp4" width="420" height="400" controls preload></video>
 
 
