@@ -138,7 +138,7 @@ If all goes well, the D7 LED on your Photon should light up when light is exceed
 YOU WILL GET A CALL FROM IFTTT WHEN LIGHT EXCEEDS IS TRIGGERED
 
 <BR>
-<img src="PHOTO.PNG" width="500">
+<img src="PHOTO.JPG" width="500">
 
 <BR>
 <video src="1.mp4" width="420" height="400" controls preload></video>
