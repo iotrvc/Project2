@@ -107,7 +107,7 @@ void loop() {
       const char* p = buf;
       Particle.publish("light",buf,60,PRIVATE);
         digitalWrite(led, HIGH);
-        Spark.publish("Light_limit","Exceeded",60,PRIVATE);
+       // Spark.publish("Light_limit","Exceeded",60,PRIVATE);
         Particle.publish("exceedlight", "Light Value is Exceeded", 60, PRIVATE);
         delay(5000); //delay for LED
         digitalWrite(led, LOW);
