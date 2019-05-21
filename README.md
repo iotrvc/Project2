@@ -57,6 +57,10 @@ Create IFTTT recipe for Particle
 1. Select CALL MY PHONE Service to send Particle Event data to
 1. Click FINISH
 
+
+<a href="https://ifttt.com/applets/idAgpcnV-exceedlight_call" target="blank">GET IFTTT RECIPE</a>
+
+
 <hr>
 
 ### Step 4: Create Particle App
