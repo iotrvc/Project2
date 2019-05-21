@@ -132,8 +132,14 @@ void loop() {
 
 ```
 
+#### Exceeded Light
+Get App: <a href="https://go.particle.io/shared_apps/5ce3ec64d1a77e0005c058f1" target="blank">Click Here</a>
+
+
 - Click Save
 - Click Flash
+
+
 
 That’s It! You should now see notifications when light is exceeded
 
