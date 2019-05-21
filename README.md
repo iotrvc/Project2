@@ -39,36 +39,27 @@ Should look like this
 <hr>
 
 ### Step 3: Setup Push Notifications
-To receive your push notification there is a little setup if you’ve never done it before, but once you do you’ll never have to touch it again. There are a ton of services you could use, but the one I like is Pushover.net. 
+To receive your push notification we will use IFTTT
 
-- Setup an account with [Pushover.net](https://pushover.net/) then follow these instructions:
+- Setup an account with [IFTTT](https://ifttt.com) then follow these instructions:
 - Follow below steps (see below image)
 
-￼<img src="8.jpg" width="500">
+Create IFTTT recipe for Particle
 
-￼<img src="7.jpg" width="500">
-
-- Click on the Pushover logo to get to your dashboard.
-- Copy your User Key. This is the value for the the user query field below.
-- Add a device that is going to receive these push notifications. Primarily an iOS or Android phone/tablet… whatever you can download the Pushover app to.
-- Send a test message and make sure it’s working!
-- Register an application named exceedlight. 
-- When you are done click on the application’s name from step 5 and copy the API Token/Key from that page. This is the value for the token query field below.
-
-<hr>
-
-### Step 4: Create a WebHook
-
-- Go to https://console.particle.io/integrations 
-- Click on New Integration
-- Change "Request Format" JSON
-- Click WebHook > CUSTOM TEMPLATE
-- Get code <a href="https://raw.githubusercontent.com/iotrvc/Project2/master/trigger.text">here</a> and Copy and replace user and token with above user key and API Token
-- Click Create WebHook
+1. Click NEW APPLET button
+1. Click + symbol after IF
+1. Type par and Select Particle
+1. Click New Event Published
+1. Type in Particle.Publish Event Name "exceedlight" (NO QUOTES)
+1. Type in Particle.Publish Event Contents "Light Value is Exceeded" (NO QUOTES)
+1. Select Particle Photon Device
+1. Click + symbol after THEN
+1. Select CALL MY PHONE Service to send Particle Event data to
+1. Click FINISH
 
 <hr>
 
-### Step 5: Create Particle App
+### Step 4: Create Particle App
 
 - Go to https://build.particle.io/build/new 
 - Title: Exceeded_Light_Monitor
