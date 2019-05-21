@@ -57,11 +57,11 @@ Create IFTTT recipe for Particle
 1. Select CALL MY PHONE Service to send Particle Event data to
 1. Click FINISH
 
-WATCH PODCAST ON HOW TO CREATE IFTTT RECIPE FOR LIGHT SENSOR
+### WATCH PODCAST ON HOW TO CREATE IFTTT RECIPE FOR LIGHT SENSOR
 
 <a href="http://youtu.be/xKvnjX0_oGU?hd=1" target="blank">Watch Podcast</a>
 
-GET STUCK? GET RECIPE
+### GET STUCK? GET RECIPE
 <a href="https://ifttt.com/applets/idAgpcnV-exceedlight_call" target="blank">GET IFTTT RECIPE</a>
 
 
