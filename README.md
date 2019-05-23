@@ -150,6 +150,19 @@ If all goes well, the D7 LED on your Photon should light up when light is exceed
 <BR>
 <img src="PHONE.JPG" width="500">
        
+#### Other IFTTT Example Notifications
+
+Email <br>
+<img src="email.png" width="500"><BR>
+       
+Google Sheets
+<BR>
+<img src="sheet.png" width="500"><BR>
+       
+Facebook Messenger
+<BR>
+<img src="facebookmessenger.png" width="500"><BR>
+       
        
 ### TROUBLESHOOTING STEPS
 <a href="https://iotrvc.github.io/troubleshooting/" target="blank">Click Here For TroubleShooting Steps</a>
