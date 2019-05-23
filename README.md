@@ -152,14 +152,14 @@ If all goes well, the D7 LED on your Photon should light up when light is exceed
        
 #### Other IFTTT Example Notifications
 
-Email <br>
+##### Email <br>
 <img src="email.png" width="500"><BR>
        
-Google Sheets
+##### Google Sheets
 <BR>
 <img src="sheet.png" width="500"><BR>
        
-Facebook Messenger
+##### Facebook Messenger
 <BR>
 <img src="facebookmessenger.png" width="500"><BR>
        
