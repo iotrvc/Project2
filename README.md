@@ -56,7 +56,7 @@ Create IFTTT recipe for Particle
 1. Type par and Select Particle
 1. Click New Event Published
 1. Type in Particle.Publish Event Name "exceedlight" (NO QUOTES)
-1. Type in Particle.Publish Event Contents {EMPTY}
+1. Type in Particle.Publish Event Contents "Light Value is Exceeded" [NO QUOTES]
 1. Select Particle Photon Device
 1. Click + symbol after THEN
 1. Select CALL MY PHONE Service to send Particle Event data to
