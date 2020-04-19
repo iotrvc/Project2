@@ -66,8 +66,6 @@ Create IFTTT recipe for Particle
 
 <a href="http://youtu.be/xKvnjX0_oGU?hd=1" target="blank">Watch Podcast</a>
 
-#### GET STUCK? GET RECIPE
-<a href="https://ifttt.com/applets/idAgpcnV-exceedlight_call" target="blank">GET IFTTT RECIPE</a>
 
 
 <hr>
